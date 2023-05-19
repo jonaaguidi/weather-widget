@@ -1,9 +1,9 @@
-import { WeatherWidget } from "./components/weatherApp"
+import { WeatherApp } from "./components/weatherApp"
 
 function App() {
   return (
     <>
-    <WeatherWidget />
+    <WeatherApp />
     </>
   )
 }

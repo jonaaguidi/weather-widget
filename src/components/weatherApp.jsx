@@ -1,9 +1,9 @@
 import React from "react";
 
-function WeatherWidget() {
+function WeatherApp() {
     return(
         <div>Hola!</div>
     );
 }
 
-export { WeatherWidget }
+export { WeatherApp }
